@@ -291,6 +291,16 @@
 					]
 				},
 				{
+					"fontFamily": "Roboto",
+					"name": "Roboto",
+					"slug": "roboto"
+				},
+				{
+					"fontFamily": "Poppins",
+					"name": "Poppins",
+					"slug": "poppins"
+				},
+				{
 					"fontFamily": "monospace",
 					"name": "Monospace",
 					"slug": "monospace"
