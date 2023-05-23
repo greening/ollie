@@ -150,34 +150,39 @@
 			],
 			"palette": [
 				{
-					"name": "Primary",
+				"name": "Primary",
 					"slug": "primary",
-					"color": "#4d34fa"
+					"color": "#24B26B"
 				},
 				{
 					"name": "Main",
 					"slug": "main",
-					"color": "#14111f"
+					"color": "#4C4C4C"
 				},
 				{
 					"name": "Secondary",
 					"slug": "secondary",
-					"color": "#636381"
+					"color": "#268CBF"
 				},
 				{
 					"name": "Main Accent",
 					"slug": "main-accent",
-					"color": "#d0ccde"
+					"color": "#A8D1E5"
 				},
 				{
 					"name": "Primary Accent",
 					"slug": "primary-accent",
-					"color": "#e4e1fe"
+					"color": "#DBDBDB"
 				},
 				{
 					"name": "Tertiary",
 					"slug": "tertiary",
-					"color": "#f6f6fc"
+					"color": "#D4E8F2"
+				},
+				{
+					"name": "Orange",
+					"slug": "orange",
+					"color": "#CF7E4C"
 				},
 				{
 					"name": "Base",
